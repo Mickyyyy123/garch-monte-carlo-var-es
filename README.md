@@ -59,18 +59,6 @@ In the report results, the DCC parameters suggest:
 - **β (persistence)** is very large (≈ 0.98),
 - indicating correlation is strongly driven by past correlation and only modestly by new shocks.
 
----
-
-## Results Preview
-
-### Correlation Structure (Heatmap)
-![Correlation Heatmap](docs/figures/corr_heatmap.png)
-
-### Granger Causality Network (p < 0.05)
-![Granger Network](docs/figures/granger_network.png)
-
-### DCC-GARCH Dynamic Correlation (BTC–ETH)
-![DCC Correlation](docs/figures/dcc_corr_btc_eth.png)
 
 ---
 
