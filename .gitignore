@@ -1,1 +1,6 @@
-.Rhistory
+.DS_Store
+__pycache__/
+*.o
+*.out
+*.exe
+a.out
